@@ -206,6 +206,7 @@ Stripe Styles
 .hero-info h1 {
   text-transform: none;
   max-width: 500px;
+  margin-top: 12rem;
   margin-bottom: 2rem;
 }
 .hero-info p {
