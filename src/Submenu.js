@@ -17,13 +17,14 @@ const Submenu = () => {
     const {center, bottom} = location;
     submenu.style.left = `${center}px`
     submenu.style.top = `${bottom}px`
+
     if(links.lenth === 3) {
       setColumns('col-3')
     }
     if(links.lenth > 3) {
       setColumns('col-4')
     }
-   }, [location])
+   }, [location, links])
   return <aside 
   className={`${isSubmenuOpen ? 'submenu show' : 
   'submenu'}`} ref={container}>
