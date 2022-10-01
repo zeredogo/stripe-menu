@@ -14,7 +14,8 @@ const Hero = () => {
           Fortune 500s-use
           stripe's software and APIs to accept payments, send 
           payouts, and 
-          manage their businesses online. and 
+          manage their businesses online. and this makes your 
+          expirence great
         </p>
         <button className='btn'>
           Start now
