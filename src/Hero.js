@@ -15,7 +15,7 @@ const Hero = () => {
           stripe's software and APIs to accept payments, send 
           payouts, and 
           manage their businesses online. and this makes your 
-          expirence great whil
+          expirence great while on the
         </p>
         <button className='btn'>
           Start now
